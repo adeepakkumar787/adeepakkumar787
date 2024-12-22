@@ -1,0 +1,10 @@
+if __name__ == '__main__':
+    s = input()  
+    sorted_s = sorted(s, key=lambda x: (
+        x.isdigit(),               
+        x.isupper(),               
+        x.islower(),               
+        (int(x) % 2 == 0 if x.isdigit() else False),  
+        x                          
+    ))
+    print(''.join(sorted_s))
