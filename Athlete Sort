@@ -1,0 +1,16 @@
+import math
+import os
+import random
+import re
+import sys
+
+if __name__ == '__main__':
+    n, m = map(int, input().split())  
+    athletes = [list(map(int, input().split())) for _ in range(n)]
+    
+    k = int(input())
+    
+    athletes.sort(key=lambda x: x[k])
+    
+    for athlete in athletes:
+        print(" ".join(map(str, athlete)))
