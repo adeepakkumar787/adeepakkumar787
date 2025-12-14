@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeepakkumar
 - 👀 I’m interested in web develpoer
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me 7873981755
 - 😄 Pronouns: ...
