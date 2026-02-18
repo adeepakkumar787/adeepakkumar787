@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeepakkumar
-- 👀 I’m interested in web develpoer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Test Engineer
+- 🌱 I’m currently learning Testing like Manual Testing & Automation Testion using Tool Selenium.
 - 📫 How to reach me 7873981755
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
